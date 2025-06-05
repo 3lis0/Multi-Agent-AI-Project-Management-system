@@ -1,10 +1,16 @@
+import sys
+try:
+    import pysqlite3.dbapi2 as sqlite3
+    sys.modules['sqlite3'] = sqlite3
+except ImportError:
+    pass
+
 import streamlit as st
 import os
 from dotenv import load_dotenv
 from crew_local import AgileProjectCrew
 from utils.html_pdf_generator import html_file_generator
 import time
-import sys
 import base64
 
 # Fix encoding issue
