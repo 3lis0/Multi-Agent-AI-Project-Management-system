@@ -1,4 +1,4 @@
-# Multi-Agent AI Project Managemensystem
+# Multi-Agent AI Project Management system
 
 > Transform your project ideas into comprehensive Agile plans using AI agents powered by **Google Gemini 2.5 Flash**
 
@@ -10,7 +10,7 @@
 
 ##  Overview
 
-The **Agile Project Planner** is a sophisticated multi-agent AI system that generates professional-grade project documentation, sprint plans, user stories, and team recommendations. Powered by Google's cutting-edge **Gemini 2.5 Flash** model, it provides a complete solution for transforming your project ideas into actionable Agile plans with enterprise-level documentation.
+The **Project Management system** is a sophisticated multi-agent AI system that generates professional-grade project documentation, sprint plans, user stories, and team recommendations. Powered by Google's cutting-edge **Gemini 2.5 Flash** model, it provides a complete solution for transforming your project ideas into actionable Agile plans with enterprise-level documentation.
 
 ###  Key Highlights
 
