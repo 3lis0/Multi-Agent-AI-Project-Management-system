@@ -155,7 +155,7 @@ class AgileProjectTasks:
 
                 /* Base Typography */
                 body {
-                    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                    font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                     font-size: 18px;
                     line-height: 1.7;
                     color: var(--text-primary);
@@ -189,7 +189,7 @@ class AgileProjectTasks:
                     font-weight: 700;
                     margin-bottom: 12px;
                     letter-spacing: -1px;
-                    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                    font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                 }
 
                 .subtitle {
@@ -205,7 +205,7 @@ class AgileProjectTasks:
                     margin: 20px 0 20px 0;
                     position: relative;
                     padding-left: 15px;
-                    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                    font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                 }
 
                 h2:before {
